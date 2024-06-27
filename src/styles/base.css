@@ -129,6 +129,11 @@
   }
 }
 
+.pswp__scroll-wrap
+{
+max-width:100% !important;
+}
+
 @layer components {
   .display-none {
     @apply hidden;
