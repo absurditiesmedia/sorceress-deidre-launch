@@ -1,12 +1,12 @@
 import type { Site, SocialObjects } from "./types";
 
 export const SITE: Site = {
-  website: "https://astro-paper.pages.dev/", // replace this with your deployed domain
+  website: "https://sorcery.site/", // replace this with your deployed domain
   author: "Sorceress Deirdre",
   desc: "expert tarot card readings, divination, and spiritual guidance by Sorceress Deirdre. Explore the mysteries of the occult and unlock your potential.",
-  title: "{[placeholder]}",
+  title: "Sorcery.site",
   ogImage: "astropaper-og.jpg",
-  lightAndDarkMode: true,
+  lightAndDarkMode: false,
   postPerPage: 10,
   scheduledPostMargin: 15 * 60 * 1000, // 15 minutes
 };
@@ -46,7 +46,7 @@ export const SOCIALS: SocialObjects = [
     name: "LinkedIn",
     href: "https://github.com/satnaing/astro-paper",
     linkTitle: `${SITE.title} on LinkedIn`,
-    active: true,
+    active: false,
   },
   {
     name: "Mail",

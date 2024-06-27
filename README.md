@@ -1,4 +1,15 @@
-# AstroPaper 📄
+# AstroPaper - Sorcery.Site
+
+This theme has been modified for use in a theme, to find example posts, please visit the master astropaper github repository with our (absurditiesmedia's) customizations [https://github.com/absurditiesmedia/astro-paper](https://github.com/absurditiesmedia/astro-paper), then look under `/src/content/`
+when viewing a mardown, yaml, json, or other such files, be sure to click the "code" tab to see the actual file content.
+
+Thus far the following customizations have been added:
+
+[x] - Lightbox Gallery
+
+The following is the original README.md File content
+
+---
 
 ![AstroPaper](public/astropaper-og.jpg)
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)

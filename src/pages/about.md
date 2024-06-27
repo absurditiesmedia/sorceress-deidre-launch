@@ -9,11 +9,11 @@ Sorceress Deirdre is a seasoned practitioner of the mystical arts, specializing 
 
 Her intuitive abilities and compassionate approach make her readings both insightful and empowering, offering clients a deep sense of clarity and direction.
 
-## Our Philosophy
+## My Philosophy
 
-At {[placeholder]}, we embrace the mysteries of the universe and the wisdom of ancient traditions. Our practice is rooted in the belief that every individual has the potential to connect with the divine and unlock their true potential. We are committed to guiding you on your journey with respect, integrity, and profound insight.
+I embrace the mysteries of the universe and the wisdom of ancient traditions. Our practice is rooted in the belief that every individual has the potential to connect with the divine and unlock their true potential. We are committed to guiding you on your journey with respect, integrity, and profound insight.
 
-## What We Offer
+## What I Offer
 
 - **In-Depth Readings:** Gain clarity and understanding through detailed tarot and divination sessions.
 - **Spiritual Guidance:** Receive personalized advice and support to help you navigate life's challenges.
