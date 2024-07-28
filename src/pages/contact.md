@@ -7,10 +7,11 @@ We would love to hear from you! Whether you have questions about our services, n
 
 ## Contact Information
 
-- **Email:** [info@[placeholder].com](mailto:info@[placeholder].com)
-- **Phone:** (123) 456-7890
-- **Address:** 123 Mystical Lane, Enchanted City, EC 12345
+- **Email:** [contact@sorcery.site](mailto:contact@sorcery.site)
+- **Phone:** (616) 287-7270
+- **Address:** 593 Butternut Dr. #1A Holland, MI 49424
 
+<!--
 ## Follow Us
 
 Stay connected and up-to-date with the latest news and insights from {[placeholder]}.
@@ -24,3 +25,4 @@ Stay connected and up-to-date with the latest news and insights from {[placehold
 Have a question or need more information? Fill out the form below, and we'll get back to you as soon as possible.
 
 [Contact Form Placeholder]
+-->
