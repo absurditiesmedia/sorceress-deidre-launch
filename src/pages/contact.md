@@ -10,6 +10,7 @@ We would love to hear from you! Whether you have questions about our services, n
 - **Email:** [contact@sorcery.site](mailto:contact@sorcery.site)
 - **Phone:** (616) 287-7270
 - **Address:** 593 Butternut Dr. #1A Holland, MI 49424
+  [!business card]
 
 <!--
 ## Follow Us
