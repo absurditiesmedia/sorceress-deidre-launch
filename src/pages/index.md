@@ -12,3 +12,5 @@ Explore my offerings and discover the secrets that await you.
 **Personalized Readings:** Each session is tailored to your unique needs and questions.
 
 **Holistic Approach:** Combining elements of occultism, sex magick, and shamanism for a comprehensive spiritual experience.
+
+<h2 style="font-size:2em;"> Call Me Today 616.287.7270</h2>
